@@ -25,7 +25,7 @@ public class gcd {
 		}
 		for(int i=min;i>=1;i--)
 		{
-			if(input1 %i== 0 && input2 % i ==0)
+			if(input1 %i == 0 && input2 % i ==0)
 			{
 				return i;
 			}
