@@ -11,7 +11,7 @@ public class lcm {
 		scanner.close();
 		System.out.println("resulut \n" + result(input1,input2));
 				
-	}
+	}  
 	static int result(int input1,int input2)
 	{ 
 		int max = Math.max(input1, input2); // Start with the maximum of the two numbers
