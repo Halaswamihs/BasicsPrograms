@@ -2,9 +2,9 @@
 public class ReverseArrayR {
 	public static void main(String args[])
 	{
-		int [] arr= {1,2,3,4};
-		System.out.println("Original Array:");
-		printArray(arr);
+	    int [] arr= {1,2,3,4};
+	    System.out.println("Original Array:");
+	    printArray(arr);
 	    reverse(arr, 0, arr.length - 1);
 	    System.out.println("Reversed Array:");
 	    printArray(arr);
