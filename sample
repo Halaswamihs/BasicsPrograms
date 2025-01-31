@@ -14,3 +14,9 @@ of attributes.
 
 . What is an Entity?
 An entity is a thing or object of importance about which data must be captured.
+
+
+What is Functional Dependency?
+Functional Dependency is the starting point of normalization. Functional Dependency
+exists when a relation between two attributes allows you to uniquely determine the
+corresponding attribute’s value.
