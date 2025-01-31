@@ -11,3 +11,6 @@ and constraints.
 This data model is based on real world that consists of basic objects called entities
 and of relationship among these objects. Entities are described in a database by a set
 of attributes.
+
+. What is an Entity?
+An entity is a thing or object of importance about which data must be captured.
