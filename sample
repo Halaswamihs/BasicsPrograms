@@ -6,3 +6,8 @@ accessed, managed, and updated.
 . What is Data Model?
 A collection of conceptual tools for describing data, data relationships data semantics
 and constraints.
+
+. What is E-R model?
+This data model is based on real world that consists of basic objects called entities
+and of relationship among these objects. Entities are described in a database by a set
+of attributes.
