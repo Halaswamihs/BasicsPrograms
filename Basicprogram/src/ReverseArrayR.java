@@ -1,8 +1,12 @@
+import java.util.Scanner;
 
 public class ReverseArrayR {
 	public static void main(String args[])
 	{
-		int [] arr= {1,2,3,4};
+		Scanner scanner=new Scanner(System.in);
+		System.out.println("enter array size");
+		//int 
+		int [] arr= new int[scanner.nextInt()];
 		System.out.println("Original Array:");
 		printArray(arr);
 	    reverse(arr, 0, arr.length - 1);
